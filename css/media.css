@@ -1,0 +1,351 @@
+@media (max-width: 750px) { 
+    .better {
+        font-size: 30px;
+    }
+
+    .cards {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1.5rem;
+    }
+
+    .secondCard {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 3rem;
+    }
+
+    .desktopspace {
+        display: none;
+    }
+
+    .form-ish {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .spaceforFirstImg {
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    .elipse4 {
+        left: 100.23px;
+        top:  280.5px;
+        position: relative;
+    }
+
+    .polygon2 {
+        left: 300.23px;
+        top:  280.5px;
+        position: relative;
+    }
+
+    .poly4 {
+        top: 180px;
+        left: -40px;
+    }
+
+    .poly5 {
+        top: 195px;
+        left: -110px;
+    }
+
+    .elipse23 {
+        top: 255px;
+        left: 70px;
+    }
+
+    .circle1 {
+        left: 93.23px;
+    }
+
+    .polygon3 {
+        left: 300.23px;
+        position: relative;
+    }
+
+    input {
+        width: 150px;
+    }
+
+    .rectangle2 {
+        display: none;
+    }
+
+    .group90 {
+        left: 50px;
+        position: relative;
+    }
+
+    .rectangle3 {
+        left: 12px;
+        position: relative;
+        top: 60px;
+    }
+    
+    .elipse225 {
+        left: -240px;
+        position: relative;
+        top: 140px;
+    }
+}
+
+
+@media (width: 1024px) { 
+    .cards {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .elipse4 {
+        left: 550.23px;
+        top: 3.5px;
+        position: relative;
+    }
+
+    .rectangle8 {
+        left: 23.23px;
+        top: 29.5px;
+        position: relative;
+    }
+
+    .polygon2 {
+        left: 900.23px;
+        position: relative;
+    }
+
+    .circle1 {
+        left: 550.23px;
+    }
+
+    .polygon3 {
+        left: 900.23px;
+    }
+
+    .rectangle2 {
+        left: 980.23px;
+        top: 110.5px;
+        position: relative;
+    }
+}
+
+
+@media (width: 810px) { 
+    .better {
+        font-size: 30px;
+    }
+
+    .poly4 {
+        left: 0.5px;
+        top: 190.5px;
+        position: relative;
+    }
+    .poly5 {
+        left: -70.23px;
+        top: 200.5px;
+        position: relative;
+    }
+
+    .spaceforFirstImg { 
+        margin-top: -100px;
+    }
+
+    .elipse4 {
+        left: 350.23px;
+        top: 3.5px;
+        position: relative;
+    }
+
+    .rectangle8 {
+        left: 23.23px;
+        top: 29.5px;
+        position: relative;
+    }
+
+    .polygon2 {
+        left: 670px;
+    }
+
+    .circle1 {
+        left: 350.23px;
+    }
+
+    .polygon3 {
+        left: 670px;
+    }
+
+    .elipse23 {
+        left: 100px;
+        top: 250.5px;
+    }
+
+    .rectangle2 {
+        display: none;
+    }
+
+    .group90 {
+        left: 50px;
+        position: relative;
+    }
+
+    .form-ish {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .rectangle3 {
+        left: 12px;
+        position: relative;
+        top: 60px;
+    }
+    
+    .elipse225 {
+        left: -70px;
+        position: relative;
+        top: -60px;
+    }
+}
+
+@media (width: 768px) { 
+    .better {
+        font-size: 30px;
+    }
+
+    .rectangle2 {
+        display: none;
+    }
+
+    .poly4 {
+        left: 0.5px;
+        top: 190.5px;
+        position: relative;
+    }
+    .poly5 {
+        left: -70.23px;
+        top: 200.5px;
+        position: relative;
+    }
+
+    .spaceforFirstImg { 
+        margin-top: -100px;
+    }
+    
+    .elipse4 {
+        left: 350.23px;
+        top: 3.5px;
+        position: relative;
+    }
+
+    .rectangle8 {
+        left: 23.23px;
+        top: 29.5px;
+        position: relative;
+    }
+    
+    .polygon2 {
+        left: 650px;
+    }
+
+    .circle1 {
+        left: 350.23px;
+    }
+
+    .polygon3 {
+        left: 670px;
+    }
+
+    .elipse23 {
+        left: 100px;
+        top: 250.5px;
+    }
+
+    .rectangle2 {
+        display: none;
+    }
+
+    .group90 {
+        left: 50px;
+        position: relative;
+    }
+
+    .form-ish {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .rectangle3 {
+        left: 12px;
+        position: relative;
+        top: 60px;
+    }
+    
+    .elipse225 {
+        left: -70px;
+        position: relative;
+        top: -60px;
+    }
+
+}
+
+@media (max-width: 384px) and (min-width: 360px)  { 
+    .better {
+        font-size: 30px;
+    }
+
+    .rectangle2 {
+        display: none;
+    }
+
+    .poly4 {
+        left: -45.5px;
+        top: 200.5px;
+        position: relative;
+    }
+    .poly5 {
+        left: -115.23px;
+        top: 215.5px;
+        position: relative;
+    }
+
+    .spaceforFirstImg { 
+        margin-top: -100px;
+    }
+
+    .elipse4 {
+        left: 65.23px;
+        top:  290.5px;
+        position: relative;
+    }
+
+    .polygon2 {
+        left: 260.23px;
+        top:  290.5px;
+        position: relative;
+    }
+
+    .cards {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 6.5rem;
+    }
+
+    .polygon3 {
+        left: 260.23px;
+        position: relative;
+    }
+
+    .elipse17 {
+        left: 15px;
+    }
+
+    .rectangle3 {
+        left: 12px;
+        position: relative;
+        top: 60px;
+    }
+    
+    .elipse225 {
+        left: -65px;
+        position: relative;
+        top: -55px;
+    }
+
+}
