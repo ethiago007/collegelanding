@@ -1,5 +1,5 @@
 # SITE NAME
-A Cryptocurrency Landing Page
+A High School College Landing Page
 
 
 # NAME OF CONTRIBUTORS
@@ -15,11 +15,11 @@ A Cryptocurrency Landing Page
 * Markdown
 
 ## PURPOSE OF THE PROJECT
-A Landing page for a cryptocurrency website
+A Landing page for a highschool college
 
 ## CODE SOLUTION
 
-https://github.com/ethiago007/cryptolanding-page.git
+https://github.com/ethiago007/collegelanding.git
 
 
 ## KNOWN BUG
@@ -27,7 +27,7 @@ NONE
 
 
 ## LIVE DISPLAY
-https://kamaljs-cryptopage.netlify.app/
+https://highschoolcollege.netlify.app/
 
 
 ## CONTACT INFORMATION
